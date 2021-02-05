@@ -9,7 +9,7 @@ Meu nome é Matheus Rodrigues
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end e Back-end
  <br/> :blush: &nbsp; Posso te ajudar com CSS, C#, JavaScript, PHP e MySql
  <br/> :computer: &nbsp; Minha stack: JavaScript, C# e PHP
- <br/> 💬  &nbsp; Sobre mim: Gosto de aviação, tecnologia,musica eltronica, games de simulação e series da Netflix, AmazonPrime, entre outras plataformas de stremming de vídeo.
+ <br/> 💬  &nbsp; Sobre mim: Gosto de aviação, tecnologia,musica eletronica, games de simulação e series da Netflix, AmazonPrime, entre outras plataformas de stremming de vídeo.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-MatheusRodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-rodrigues-29759a165/)](https://www.linkedin.com/in/matheus-rodrigues-29759a165/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-mathclash25@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mathclash25@gmail.com)](mailto:mathclash25@gmail.com)
