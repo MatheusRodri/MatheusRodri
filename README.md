@@ -12,4 +12,4 @@ Meu nome é Matheus Rodrigues
  <br/> 💬  &nbsp; Sobre mim: Gosto de aviação, tecnologia,musica eletronica, games de simulação e series da Netflix, AmazonPrime, entre outras plataformas de stremming de vídeo.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-MatheusRodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-rodrigues-29759a165/)](https://www.linkedin.com/in/matheus-rodrigues-29759a165/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-mathclash25@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mathclash25@gmail.com)](mailto:mathclash25@gmail.com)
+[![Hotmail Badge](https://img.shields.io/badge/-matheus.rj25@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.rj25@hotmail.com)](mailto:atheus.rj25@hotmail.com)
