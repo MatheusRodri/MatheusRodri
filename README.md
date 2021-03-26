@@ -2,7 +2,7 @@
 
 ## Fala pessoal 👋
 Meu nome é Matheus Rodrigues
-<br/>Tenho 18 anos 
+<br/>Tenho 19 anos 
 <br/>Em 2018 comecei um curso em um Institito Social em São Paulo naqual eu aprendi, algoritimo, fluxogramas, C# e MySql.
 
  Atualmente focado nos estudos. 
