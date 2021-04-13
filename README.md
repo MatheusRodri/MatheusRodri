@@ -1,5 +1,3 @@
-English |  [Portuguese](README_ptbr.md)
-
 # Matheus Rodrigues
 
 
