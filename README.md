@@ -15,7 +15,7 @@ Meu nome é Matheus Rodrigues
  <br/>
  Aqui no meu perfil do GitHub existem projetos de apredizados (iniciados em "A") e projetos reais (inicado em "R").
  <br/>
- Projetos de apredizados são projetos que são ensinados em cursos ou seja são projetos copiados usados somente para rever cocentos.
+ Projetos de apredizados são projetos que são ensinados em cursos ou seja são projetos copiados usados somente para rever conceitos.
  <br/>
  Projetos reais são projetos que eu mesmo desenvolvi para reforçar o conhecimento usados nos projetos de aprendizados. 
  <br/>
