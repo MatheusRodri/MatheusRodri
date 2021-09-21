@@ -11,8 +11,8 @@ Meu nome é Matheus Rodrigues
  <br/> :blush: &nbsp; Posso te ajudar com CSS, C#, JavaScript, PHP e MySql
  <br/> :computer: &nbsp; Minha stack: JavaScript, C# e PHP
  <br/> 💬  &nbsp; Sobre mim: Gosto de aviação, tecnologia,musica eletronica, games de simulação e series da Netflix, AmazonPrime, entre outras plataformas de stremming de vídeo.
- <br/> 📫 Email: matheus.rj25@hotmail.com
- <br/>Linkedin: https://www.linkedin.com/in/matheus-rodrigues-29759a165 
+ <br/> 📫 &nbsp; Email: matheus.rj25@hotmail.com
+ <br/> 💙 &nbsp;Linkedin: https://www.linkedin.com/in/matheus-rodrigues-29759a165 
  <br/>
  <br/>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrodri&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
