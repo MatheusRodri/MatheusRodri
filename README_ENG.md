@@ -21,7 +21,7 @@ My name is Matheus Rodrigues
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusrodri&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  <br/>
  <br/>
- ## TTotal Profile Views :detective: <br>
+ ## Total Profile Views :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/matheusrodri/count.svg" />
  </p>
