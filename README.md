@@ -14,7 +14,7 @@ Meu nome é Matheus Rodrigues
  <br/> 📫 &nbsp; Email: matheus.rj25@hotmail.com
  <br/> 💙 &nbsp;Linkedin: [Matheus Rodrigues](https://www.linkedin.com/in/matheus-rodrigues-29759a165) 
  <br/>
- <br/> Aqui no meu github você vai encontrar vários projetos em difentes linguagens ou frameworks, para isso eu criei algumas abreviações para auxiliar. A seguir você pode ver as seguintes abreviações juntamete com o significado: 
+ <br/> Aqui no meu github você vai encontrar vários projetos em difentes linguagens ou frameworks, para isso eu criei algumas abreviações para auxiliar. A seguir você pode ver as seguintes abreviações juntamente com o significado: 
  - RN = React Native
  - RJ = React Js
  - C# = Csharp
