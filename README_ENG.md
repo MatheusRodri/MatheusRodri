@@ -15,7 +15,14 @@ My name is Matheus Rodrigues
  <br/> 📫 &nbsp; Email: matheus.rj25@hotmail.com
  <br/> 💙 &nbsp;Linkedin: https://www.linkedin.com/in/matheus-rodrigues-29759a165 
  <br/>
+ <br/>Here in my GitHub, you find varius projects with diffent programming language and frameworks, therefore I created some abbreviatio to assit. Hereafter you can see the following abbreviations along with the meaning:
+ - RN = React Native
+ - RJ = React Js
+ - C# = Csharp
+ - FL = Flutter
+ - PY = Python
  <br/>
+ <strong>Note: Project without identification in the final,they are projects made in HTML CSS and JavaScript.</strong>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrodri&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  <br/>
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusrodri&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
