@@ -17,7 +17,6 @@ Meu nome é Matheus Rodrigues
  <br/> Aqui no meu github você vai encontrar vários projetos em difentes linguagens ou frameworks, para isso eu criei algumas abreviações para auxiliar. A seguir você pode ver as seguintes abreviações juntamente com o significado: 
  - RN = React Native
  - RJ = React Js
- - C# = Csharp
  - FL = Flutter
  - PY = Python
 <br/>
