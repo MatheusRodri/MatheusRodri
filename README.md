@@ -19,6 +19,7 @@ Meu nome é Matheus Rodrigues
  - RJ = React Js
  - FL = Flutter
  - PY = Python
+ - NX = NextJs
 <br/>
 <strong>Observação: Projetos sem identificação no final, eles foram desenvlvidos com HTML, CSS e JavaScript </strong>
  <br/>
