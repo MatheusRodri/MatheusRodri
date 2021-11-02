@@ -20,6 +20,7 @@ My name is Matheus Rodrigues
  - RJ = React Js
  - FL = Flutter
  - PY = Python
+ - NX = NextJS
  <br/>
  <strong>Note: Project without identification in the final,they are projects made in HTML CSS and JavaScript.</strong>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrodri&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
