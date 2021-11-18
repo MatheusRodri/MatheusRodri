@@ -24,9 +24,6 @@ Meu nome é Matheus Rodrigues
 <strong>Observação: Projetos sem identificação no final, eles foram desenvlvidos com HTML, CSS e JavaScript </strong>
  <br/>
  <br/>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrodri&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
- <br/>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusrodri&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  <br/>
  <br/>
  ## Total de Visitas no perfil :detective: <br>
