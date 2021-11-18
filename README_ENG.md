@@ -22,10 +22,6 @@ My name is Matheus Rodrigues
  - PY = Python
  - NX = NextJS
  <br/>
- <strong>Note: Project without identification in the final,they are projects made in HTML CSS and JavaScript.</strong>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrodri&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
- <br/>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusrodri&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  <br/>
  <br/>
  ## Total Profile Views :detective: <br>
