@@ -22,7 +22,7 @@ Meu nome é Matheus Rodrigues
  - NX = NextJs
  - NJ = NodeJs
 <br/>
-<strong>Observação: Projetos sem identificação no final, eles foram desenvlvidos com HTML, CSS e JavaScript </strong>
+<strong>Observação: No repositorio Projects-simples você pode encontrar alguns projetos simples desenvolvidos apenas com HTML,CSS e Javascript </strong>
  <br/>
  <br/>
  <br/>
