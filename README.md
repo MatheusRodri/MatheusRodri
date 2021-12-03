@@ -22,7 +22,11 @@ Meu nome é Matheus Rodrigues
  - NX = NextJs
  - NJ = NodeJs
 <br/>
-<strong>Observação: No repositorio Projects-simples você pode encontrar alguns projetos simples desenvolvidos apenas com HTML,CSS e Javascript </strong>
+Repositorios: Na aba de repositorios, você vai encontrar 2 repositorios com o nome de <strong>Projects-simple</strong> e <strong>Projects-RN</strong> Abaixo você pode ver o que significa cada um deles:
+
+ - Projects-simple = Como o proprio nome diz, são projetos desenvolvidos em HTML, CSS e JavaScipt, o objetivo dele é aguardar toda a minha a tragetoria.
+
+ - Prjects-RN = São projetos que desenvolvi com ajuda de curso de React Native.
  <br/>
  <br/>
  <br/>
