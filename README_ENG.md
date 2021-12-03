@@ -22,6 +22,13 @@ My name is Matheus Rodrigues
  - PY = Python
  - NX = NextJS
  - NJ = NodeJs
+ 
+ Repositories: In the tab of repositories,you will find 2 repositories with the name of <strong>Projects-simple</strong> and <strong>Projects-RN</strong> below you can see what means each one of them:
+
+ - Projects-simple = Are projects developers in HTML,CSS and JavaScript, the objective it is save all my trajectory.
+
+ - Prjects-RN = Are projects that developed with help of React-Native courses.
+ 
  <br/>
  <br/>
  <br/>
