@@ -8,8 +8,7 @@ Meu nome é Matheus Rodrigues
 
  Atualmente focado nos estudos. 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end e Back-end
- <br/> :blush: &nbsp; Posso te ajudar com CSS, C#, JavaScript, PHP e MySql
- <br/> :computer: &nbsp; Minha stack: JavaScript, C# e PHP
+ <br/> :computer: &nbsp; Minha stack: JavaScript,dart
  <br/> 💬  &nbsp; Sobre mim: Gosto de aviação, tecnologia,musica eletronica, games de simulação e series da Netflix, AmazonPrime, entre outras plataformas de stremming de vídeo.
  <br/> 📫 &nbsp; Email: matheus.rj25@hotmail.com
  <br/> 💙 &nbsp;Linkedin: [Matheus Rodrigues](https://www.linkedin.com/in/matheus-rodrigues-29759a165) 
