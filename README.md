@@ -20,6 +20,8 @@ Meu nome é Matheus Rodrigues
  - PY = Python
  - NX = NextJs
  - NJ = NodeJs
+ - VJ = VueJs
+ - DR = Dart
 <br/>
 Repositorios: Na aba de repositorios, você vai encontrar 2 repositorios com o nome de <strong>Projects-simple</strong> e <strong>Projects-RN</strong> Abaixo você pode ver o que significa cada um deles:
 
