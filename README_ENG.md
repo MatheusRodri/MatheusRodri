@@ -14,15 +14,19 @@ My name is Matheus Rodrigues
  <br/> 📫 &nbsp; Email: matheus.rj25@hotmail.com
  <br/> 💙 &nbsp;Linkedin: https://www.linkedin.com/in/matheus-rodrigues-29759a165 
  <br/>
- <br/>Here in my GitHub, you find varius projects with diffent programming language and frameworks, therefore I created some abbreviatio to assit. Hereafter you can see the following abbreviations along with the meaning:
+ <br/>Here in my GitHub, you find several projects with diffent programming language and frameworks, therefore I created some abbreviatio to assit. Hereafter you can see the following abbreviations along with the meaning:
+ ## Backend
+  - PY = Python
+  - NJ = NodeJs
+  - CSharp = Csharp
+  - DR = Dart
+ ## Frontend
  - RN = React Native
  - RJ = React Js
  - FL = Flutter
- - PY = Python
  - NX = NextJS
- - NJ = NodeJs
  - VJ = VueJs
- - DR = Dart
+ 
  
  Repositories: In the tab of repositories,you will find 2 repositories with the name of <strong>Projects-simple</strong> and <strong>Projects-RN</strong> below you can see what means each one of them:
 
