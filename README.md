@@ -13,15 +13,7 @@ Meu nome é Matheus Rodrigues
  <br/> 📫 &nbsp; Email: matheus.rj25@hotmail.com
  <br/> 💙 &nbsp;Linkedin: [Matheus Rodrigues](https://www.linkedin.com/in/matheus-rodrigues-29759a165) 
  <br/>
- <br/> Aqui no meu github você vai encontrar vários projetos em difentes linguagens ou frameworks, para isso eu criei algumas abreviações para auxiliar. A seguir você pode ver as seguintes abreviações juntamente com o significado: 
- - RN = React Native
- - RJ = React Js
- - FL = Flutter
- - PY = Python
- - NX = NextJs
- - NJ = NodeJs
- - VJ = VueJs
- - DR = Dart
+ <br/> Aqui no meu github você vai encontrar vários projetos em difentes linguagens ou frameworks, para idemtificar a linguagem utilizada basta olhar no final do nome do repositorio.
 <br/>
 Repositorios: Na aba de repositorios, você vai encontrar 2 repositorios com o nome de <strong>Projects-simple</strong> e <strong>Projects-RN</strong> Abaixo você pode ver o que significa cada um deles:
 
