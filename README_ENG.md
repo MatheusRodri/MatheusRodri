@@ -18,7 +18,7 @@ My name is Matheus Rodrigues
  ## Backend
   - PY = Python
   - NJ = NodeJs
-  - CSharp = Csharp
+  - DT = DotNet/Csharp
   - DR = Dart
  ## Frontend
  - RN = React Native
