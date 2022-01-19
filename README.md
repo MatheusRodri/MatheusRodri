@@ -32,10 +32,15 @@ Repositorios: Na aba de repositorios, você vai encontrar 2 repositorios com o n
  <br/>
  <br/>
  <br/>
- ## Total de Visitas no perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/matheusrodri/count.svg" />
- </p>
+ <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dark"/>
+ <br>
+ <br>
+  ## Total de Visitas no perfil :detective: 
+ <br>
+ <br>
+    <img alingn="center" src="https://profile-counter.glitch.me/matheusrodri/count.svg" />
+</div>
 </div>
 <br/>
 <br/>
