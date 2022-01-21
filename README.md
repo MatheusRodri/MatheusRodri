@@ -43,7 +43,13 @@ Repositorios: Na aba de repositorios, você vai encontrar 2 repositorios com o n
  <br>
  <br>
     <img alingn="center" src="https://profile-counter.glitch.me/matheusrodri/count.svg" />
-</div>
+ <br>
+ <br>
+ <br>
+ 🎧 Ouvindo...
+ <br>
+ <br>
+ <img height="400em" src="https://spotify-github-profile.vercel.app/api/view?uid=314uddgfqeeqaepps3neyzceid7a&cover_image=true&theme=default&bar_color_cover=false"/>
 </div>
 <br/>
 <br/>
