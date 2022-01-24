@@ -41,10 +41,20 @@ My name is Matheus Rodrigues
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrodri&layout=compact&langs_count=7&theme=dark"/>
  <br>
  <br>
-  ## Total Profile Views 🕵️
+  ## Total of visit in profile :detective: 
  <br>
  <br>
     <img alingn="center" src="https://profile-counter.glitch.me/matheusrodri/count.svg" />
+ <br>
+ <br>
+ <br>
+ 🎧 Listening...
+ <br>
+ <br>
+ <img height="400em" src="https://spotify-github-profile.vercel.app/api/view?uid=314uddgfqeeqaepps3neyzceid7a&cover_image=true&theme=default&bar_color_cover=false"/>
+ <br>
+ <br>
+ <img height="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mathrodri25&layout=compact"/>
 </div>
  <br/>
 <br/>
