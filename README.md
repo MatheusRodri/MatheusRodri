@@ -50,6 +50,10 @@ Repositorios: Na aba de repositorios, você vai encontrar 2 repositorios com o n
  <br>
  <br>
  <img height="400em" src="https://spotify-github-profile.vercel.app/api/view?uid=314uddgfqeeqaepps3neyzceid7a&cover_image=true&theme=default&bar_color_cover=false"/>
+ <br>
+ <br>
+ <img height="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mathrodri25&layout=compact"/>
 </div>
+
 <br/>
 <br/>
