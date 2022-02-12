@@ -26,11 +26,6 @@ Meu nome é Matheus Rodrigues
  - NX = NextJS
  - VJ = VueJs
 <br/>
-Repositorios: Na aba de repositorios, você vai encontrar 2 repositorios com o nome de <strong>Projects-simple</strong> e <strong>Projects-RN</strong> Abaixo você pode ver o que significa cada um deles:
-
- - Projects-simple = Como o proprio nome diz, são projetos desenvolvidos em HTML, CSS e JavaScipt, o objetivo dele é aguardar toda a minha a tragetoria.
-
- - Projects-RN = São projetos que desenvolvi com ajuda de curso de React Native.
  <br/>
  <br/>
  <br/>
