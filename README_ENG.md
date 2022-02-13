@@ -14,12 +14,15 @@ My name is Matheus Rodrigues
  <br/> 📫 &nbsp; Email: matheus.rj25@hotmail.com
  <br/> 💙 &nbsp;Linkedin: https://www.linkedin.com/in/matheus-rodrigues-29759a165 
  <br/>
- <br/>Here in my GitHub, you find several projects with diffent programming language and frameworks, therefore I created some abbreviatio to assit. Hereafter you can see the following abbreviations along with the meaning:
+  <br/>Here in my GitHub, you find several projects with diffent programming language and frameworks to better organization the projects are nominated this way: 
+ <br/> Type_ProjectName_Language
+ - Type = Website(Web),Application(App),Desktop(Desk) ou Api
+ - ProjectName = Project Name 
+ - Language = Languagewhich the project is being developed, below you can see a list of abbreviations that are used with their meanings:
  ## Backend
   - PY = Python
   - NJ = NodeJs
   - DN = DotNet/Csharp
-  - DR = Dart
  ## Frontend
  - RN = React Native
  - RJ = React Js
