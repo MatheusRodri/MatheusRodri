@@ -13,12 +13,15 @@ Meu nome é Matheus Rodrigues
  <br/> 📫 &nbsp; Email: matheus.rj25@hotmail.com
  <br/> 💙 &nbsp;Linkedin: [Matheus Rodrigues](https://www.linkedin.com/in/matheus-rodrigues-29759a165) 
  <br/>
- <br/> Aqui no meu github você vai encontrar vários projetos em difentes linguagens ou frameworks, para isso eu criei algumas abreviações para auxiliar. A seguir você pode ver as seguintes abreviações juntamente com o significado: 
+ <br/> Aqui no meu github você vai encontrar vários projetos em difentes linguagens ou frameworks, para melhor organização os projetos estão nomeados da seguinte forma: 
+ <br/> Tipo_NomeDoProjeto_Linguagem
+ - Tipo = Website, Aplicativo,Desktop ou Api
+ - NomeDoProjeto = Nome do projeto 
+ - Linguagem = Linguagem na qual o projeto está sendo desenvolvido, abaixo você pode ver uma lista de abrevições que são usadas com seus significados:
 ## Backend
   - PY = Python
   - NJ = NodeJs
   - DN = DotNet/Csharp
-  - DR = Dart
 ## Frontend
  - RN = React Native
  - RJ = React Js
