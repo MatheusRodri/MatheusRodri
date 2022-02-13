@@ -15,7 +15,7 @@ Meu nome é Matheus Rodrigues
  <br/>
  <br/> Aqui no meu github você vai encontrar vários projetos em difentes linguagens ou frameworks, para melhor organização os projetos estão nomeados da seguinte forma: 
  <br/> Tipo_NomeDoProjeto_Linguagem
- - Tipo = Website, Aplicativo,Desktop ou Api
+ - Tipo = Website(Web), Aplicativo(App),Desktop(Desk) ou Api
  - NomeDoProjeto = Nome do projeto 
  - Linguagem = Linguagem na qual o projeto está sendo desenvolvido, abaixo você pode ver uma lista de abrevições que são usadas com seus significados:
 ## Backend
