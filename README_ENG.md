@@ -4,7 +4,7 @@
 
 ## Hey guy 👋
 My name is Matheus Rodrigues
-<br/>I'm 19 years old
+<br/>I'm 20 years old
 <br/>In 2018 started a course in a Social Institute in São Paulo where I learned algorithm, flowchart C# and MySql.
 
  Atualmente focado nos estudos. 
@@ -24,6 +24,7 @@ My name is Matheus Rodrigues
   - NJ = NodeJs
   - DN = DotNet/Csharp
  ## Frontend
+ - HCJ = HTML.CSS e JavaScript
  - RN = React Native
  - RJ = React Js
  - FL = Flutter
