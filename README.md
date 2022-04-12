@@ -8,7 +8,7 @@ Meu nome é Matheus Rodrigues
 
  Atualmente focado nos estudos. 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end e Back-end
- <br/> :computer: &nbsp; Minha stack: JavaScript e dart
+ <br/> :computer: &nbsp; Minha stack: JavaScript
  <br/> 💬  &nbsp; Sobre mim: Gosto de aviação, tecnologia,musica eletronica, games de simulação e series da Netflix, AmazonPrime, entre outras plataformas de stremming de vídeo.
  <br/> 📫 &nbsp; Email: matheus.rj25@hotmail.com
  <br/> 💙 &nbsp;Linkedin: [Matheus Rodrigues](https://www.linkedin.com/in/matheus-rodrigues-29759a165) 
@@ -19,14 +19,11 @@ Meu nome é Matheus Rodrigues
  - NomeDoProjeto = Nome do projeto 
  - Linguagem = Linguagem na qual o projeto está sendo desenvolvido, abaixo você pode ver uma lista de abrevições que são usadas com seus significados:
 ## Backend
-  - PY = Python
   - NJ = NodeJs
-  - DN = DotNet/Csharp
 ## Frontend
  - HCJ = HTML,CSS e JavaScript
  - RN = React Native
  - RJ = React Js
- - FL = Flutter
  - NX = NextJS
  - VJ = VueJs
 <br/>
