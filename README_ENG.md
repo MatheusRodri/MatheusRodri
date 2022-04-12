@@ -9,7 +9,7 @@ My name is Matheus Rodrigues
 
  Atualmente focado nos estudos. 
  <br/> :purple_heart: &nbsp;Seeking to collaborate with projects in Front-end and Back-end
- <br/> :computer: &nbsp; My stack: JavaScript and Dart
+ <br/> :computer: &nbsp; My stack: JavaScript
  <br/> 💬  &nbsp; About me: I like of avition, tecnology, eletronic music, simulation games and series in general.
  <br/> 📫 &nbsp; Email: matheus.rj25@hotmail.com
  <br/> 💙 &nbsp;Linkedin: https://www.linkedin.com/in/matheus-rodrigues-29759a165 
@@ -20,14 +20,11 @@ My name is Matheus Rodrigues
  - ProjectName = Project Name 
  - Language = Languagewhich the project is being developed, below you can see a list of abbreviations that are used with their meanings:
  ## Backend
-  - PY = Python
   - NJ = NodeJs
-  - DN = DotNet/Csharp
  ## Frontend
  - HCJ = HTML.CSS e JavaScript
  - RN = React Native
  - RJ = React Js
- - FL = Flutter
  - NX = NextJS
  - VJ = VueJs
  
