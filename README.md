@@ -38,7 +38,7 @@ Meu nome é Matheus Rodrigues
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrodri&layout=compact&langs_count=7&theme=dark"/>
  <br>
  <br>
- <img height="400em" src="/>
+ <img height="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mathrodri25&layout=compact"/>
  <br>
  <br>
   ## Total de Visitas no perfil :detective: 
