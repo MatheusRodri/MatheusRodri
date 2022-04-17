@@ -7,8 +7,6 @@ My name is Matheus Rodrigues
 <br/>I'm 20 years old
 <br/>In 2018 started a course in a Social Institute in São Paulo where I learned algorithm, flowchart C# and MySql.
 
-#NOTE: ALL THE REPOSITORIES WARE DELETED, THEY WILL BE REPOSTS WITH TIME IN AN ORGANIZED WAY
-
  Atualmente focado nos estudos. 
  <br/> :purple_heart: &nbsp;Seeking to collaborate with projects in Front-end and Back-end
  <br/> :computer: &nbsp; My stack: JavaScript
