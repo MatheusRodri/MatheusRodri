@@ -6,9 +6,6 @@ Meu nome é Matheus Rodrigues
 <br/>Tenho 20 anos 
 <br/>Em 2018 comecei um curso em um Institito Social em São Paulo naqual eu aprendi, algoritimo, fluxogramas, C# e MySql.
 
-
-#OBS: TODOS OS PROJETOS FORAM DELETADOS E ESTÃO SENDO REFETOS DE MANEIRA ORGANIZADA
-
  Atualmente focado nos estudos. 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end e Back-end
  <br/> :computer: &nbsp; Minha stack: JavaScript
