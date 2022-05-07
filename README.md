@@ -20,12 +20,13 @@ Meu nome é Matheus Rodrigues
  - Linguagem = Linguagem na qual o projeto está sendo desenvolvido, abaixo você pode ver uma lista de abrevições que são usadas com seus significados:
 ## Backend
   - NJ = NodeJs
+  - NT = NestJs
 ## Frontend
  - HCJ = HTML,CSS e JavaScript
  - RN = React Native
  - RJ = React Js
  - NX = NextJS
- - VJ = VueJs
+ 
 <br/>
  <br/>
  <br/>
