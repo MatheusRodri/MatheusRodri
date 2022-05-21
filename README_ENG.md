@@ -9,7 +9,7 @@ My name is Matheus Rodrigues
 
  Atualmente focado nos estudos. 
  <br/> :purple_heart: &nbsp;Seeking to collaborate with projects in Front-end and Back-end
- <br/> :computer: &nbsp; My stack: JavaScript
+ <br/> :computer: &nbsp; My stack: JavaScript, Flutter and Kotlin/Java
  <br/> 💬  &nbsp; About me: I like of avition, tecnology, eletronic music, simulation games and series in general.
  <br/> 📫 &nbsp; Email: matheus.rj25@hotmail.com
  <br/> 💙 &nbsp;Linkedin: https://www.linkedin.com/in/matheus-rodrigues-29759a165 
@@ -27,6 +27,8 @@ My name is Matheus Rodrigues
  - RN = React Native
  - RJ = React Js
  - NX = NextJS
+ - fl = Flutter
+ - kt = Kotlin/Java
  
  <br/>
  <br/>
