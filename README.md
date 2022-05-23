@@ -19,13 +19,13 @@ Meu nome é Matheus Rodrigues
  - NomeDoProjeto = Nome do projeto 
  - Linguagem = Linguagem na qual o projeto está sendo desenvolvido, abaixo você pode ver uma lista de abrevições que são usadas com seus significados:
 ## Backend
-  - NJ = NodeJs
-  - NT = NestJs
+  - nj = NodeJs
+  - nt = NestJs
 ## Frontend
- - HCJ = HTML,CSS e JavaScript
- - RN = React Native
- - RJ = React Js
- - NX = NextJS
+ - hcj = HTML,CSS e JavaScript
+ - rn = React Native
+ - rj = React Js
+ - nx = NextJS
  - fl = Flutter
  - Kt = Kotlin/Java
  
