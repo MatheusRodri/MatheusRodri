@@ -19,16 +19,16 @@ My name is Matheus Rodrigues
  - Type = Website(Web),Application(App),Desktop(Desk) ou Api
  - ProjectName = Project Name 
  - Language = Languagewhich the project is being developed, below you can see a list of abbreviations that are used with their meanings:
- ## Backend
-  - NJ = NodeJs
-  - NT = NestJs
- ## Frontend
- - HCJ = HTML.CSS e JavaScript
- - RN = React Native
- - RJ = React Js
- - NX = NextJS
+## Backend
+  - nj = NodeJs
+  - nt = NestJs
+## Frontend
+ - hcj = HTML,CSS e JavaScript
+ - rn = React Native
+ - rj = React Js
+ - nx = NextJS
  - fl = Flutter
- - kt = Kotlin/Java
+ - Kt = Kotlin/Java
  
  <br/>
  <br/>
