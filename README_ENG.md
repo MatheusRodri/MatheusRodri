@@ -22,11 +22,13 @@ My name is Matheus Rodrigues
 ## Backend
   - nj = NodeJs
   - nt = NestJs
+  - ad = Adonis
 ## Frontend
  - hcj = HTML,CSS e JavaScript
  - rn = React Native
  - rj = React Js
  - nx = NextJS
+ - vj = VueJs
  - fl = Flutter
  - Kt = Kotlin/Java
  
