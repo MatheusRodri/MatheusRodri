@@ -29,8 +29,6 @@ My name is Matheus Rodrigues
  - rj = React Js
  - nx = NextJS
  - vj = VueJs
- - fl = Flutter
- - Kt = Kotlin/Java
  
  <br/>
  <br/>
