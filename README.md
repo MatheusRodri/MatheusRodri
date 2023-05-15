@@ -10,24 +10,30 @@ Meu nome é Matheus Rodrigues
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end e Back-end
  <br/> :computer: &nbsp; Minha stack: JavaScript, Typescript
  <br/> 💬  &nbsp; Sobre mim: Gosto de aviação, tecnologia,musica eletronica, games de simulação e series da Netflix, AmazonPrime, entre outras plataformas de stremming de vídeo.
- <br/> 📫 &nbsp; Email: matheus.rj25@hotmail.com
+ <br/> 📫 &nbsp;Email: matheus.rj25@hotmail.com
  <br/> 💙 &nbsp;Linkedin: [Matheus Rodrigues](https://www.linkedin.com/in/matheus-rodrigues-29759a165) 
  <br/>
  <br/> Aqui no meu github você vai encontrar vários projetos em difentes linguagens ou frameworks, para melhor organização os projetos estão nomeados da seguinte forma: 
- <br/> Tipo_NomeDoProjeto_Linguagem
- - Tipo = Website(Web), Aplicativo(App),Desktop(Desk) ou Api
+ <br/> Tipo_NomeDoProjeto_Tecnologia
+ - Tipo = Website(Web), Aplicativo(App),Desktop(Desk),Api(Api) e Automações(Auto)
  - NomeDoProjeto = Nome do projeto 
- - Linguagem = Linguagem na qual o projeto está sendo desenvolvido, abaixo você pode ver uma lista de abrevições que são usadas com seus significados:
+ - Tecnologia = Tecnologia na qual o projeto está sendo desenvolvido, abaixo você pode ver uma lista de abrevições que são usadas com seus significados:
 ## Backend
   - nj = NodeJs
   - nt = NestJs
   - ad = Adonis
+  
 ## Frontend
  - hcj = HTML,CSS e JavaScript
  - rn = React Native
  - rj = React Js
  - nx = NextJS
  - vj = VueJs
+ - fl = Flutter
+ - kt = Kotlin(Android)
+ 
+ ## Console
+ - py = python
  
 <br/>
  <br/>
