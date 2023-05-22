@@ -1,16 +1,17 @@
+<h1>⚠️README EM ATUALIZAÇÃO SEM DATA PARA FICAR PRONTO⚠️</h1>
+
 <h1> Matheus Rodrigues </h1>
 
 <a href="/README_ENG.MD">Readme in english</a>
 
 
 <h2> Fala pessoal </h2>
-<p style="margin-bottom:5px">👋Meu nome é Matheus Rodrigues</p>
+<p style="margin-bottom:5px">👋Me chamo Matheus Rodrigues</p>
 <p style="margin-bottom:5px">Tenho 21 anos</p>
 <p style="margin-bottom:5px">Em 2018 comecei um curso em um Instituto Social em São Paulo na qual eu aprendi, algorítimo, fluxogramas, C# e MySql.
 </p>
 
-
- <p>Atualmente focado nos estudos.</p>
+ <p>Atualmente focado nos estudos e se parecer algum estágio vou garrar também</p>
 
  :purple_heart: &nbsp; Buscando desenvolver diversos tipos de projetos, front-end,back-end e console.
  :computer: &nbsp; Minha stack: JavaScript, Typescript
@@ -113,6 +114,3 @@ Tipo_NomeDoProjeto_Tecnologia
  <br>
  <br>
 </div>
-
-<br/>
-<br/>
