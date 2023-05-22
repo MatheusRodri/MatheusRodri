@@ -1,4 +1,4 @@
-<h1>⚠️README EM ATUALIZAÇÃO SEM DATA PARA FICAR PRONTO⚠️</h1>
+<h1>⚠️README EM ATUALIZAÇÃO⚠️</h1>
 
 <h1> Matheus Rodrigues </h1>
 
