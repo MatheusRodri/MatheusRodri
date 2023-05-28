@@ -1,37 +1,92 @@
-# Matheus Rodrigues
+<h1>Matheus Rodrigues</h1>
 
-[Readme em portugues](README.md)
+<a href="/README.MD">Readme em portugues</a>
 
-## Hey guy 👋
-My name is Matheus Rodrigues
-<br/>I'm 21 years old
-<br/>In 2018 started a course in a Social Institute in São Paulo where I learned algorithm, flowchart C# and MySql.
+<h2>Hey guys 👋</h2>
+<p style="margin-bottom:5px">My name is Matheus Rodrigues</p>
+<p style="margin-bottom:5px">I'm 21 years old</p>
+<p style="margin-bottom:5px">In 2018 started a course in a Social Institute in São Paulo where I learned algorithm, flowchart C# and MySql.</p>
 
- Atualmente focado nos estudos. 
- <br/> :purple_heart: &nbsp;Seeking to collaborate with projects in Front-end and Back-end
- <br/> :computer: &nbsp; My stack: JavaScript, TypeScript
- <br/> 💬  &nbsp; About me: I like of avition, tecnology, eletronic music, simulation games and series in general.
- <br/> 📫 &nbsp; Email: matheus.rj25@hotmail.com
- <br/> 💙 &nbsp;Linkedin: https://www.linkedin.com/in/matheus-rodrigues-29759a165 
- <br/>
-  <br/>Here in my GitHub, you find several projects with diffent programming language and frameworks to better organization the projects are nominated this way: 
- <br/> Type_ProjectName_Language
- - Type = Website(Web),Application(App),Desktop(Desk) ou Api
- - ProjectName = Project Name 
- - Language = Languagewhich the project is being developed, below you can see a list of abbreviations that are used with their meanings:
-## Backend
-  - nj = NodeJs
-  - nt = NestJs
-  - ad = Adonis
-## Frontend
- - hcj = HTML,CSS e JavaScript
- - rn = React Native
- - rj = React Js
- - nx = NextJS
- - vj = VueJs
+<p>Actually focus in my study</p>
+
+:purple_heart: &nbsp;Seeking to collaborate with projects in Front-end and Back-end
+:computer: &nbsp; My stack: JavaScript, TypeScript
+💬  &nbsp; About me: I like of avition, tecnology, eletronic music, simulation games and series in general.
+📫 &nbsp; Email: matheus.rj25@hotmail.com
+💙 &nbsp;Linkedin: https://www.linkedin.com/in/matheus-rodrigues-29759a165 
+  <p>Here in my GitHub, you find several projects with different programming language and frameworks to better organization the projects are nominated this way: </p>
+
+ Type_ProjectName_Language
  
- <br/>
- <br/>
+ <ul>
+  <li>Type: Below you can see the meaning of all the abbreviations you may find in my Github:
+  <table>
+    <tr>
+      <th>Abbreviation</th>
+      <th>Meaning</th>
+      <th>Explanation</th>
+    </tr>
+    <tr>
+      <td>Api</td>
+      <td>Website</td>
+      <td>Front-end project (may or may not have a connection to an API)</td>
+    </tr>
+    <tr>
+      <td>App</td>
+      <td>Mobile application</td>
+      <td>Front-end project for mobile devices (may or may not have a connection to an API)</td>
+    </tr>
+    <tr>
+      <td>Web</td>
+      <td>Website</td>
+      <td>Front-end project (may or may not have a connection to an API)</td>
+    </tr>
+    <tr>
+      <td>Cmd</td>
+      <td>Command Prompt (Terminal)</td>
+      <td>Simple project that does not require a graphical interface, browser automation, or computer automation</td>
+    </tr>
+    </table>
+  </li>
+  <li>NameOfProjects: As the name suggests, it would be the name of the project.</li>
+<li>
+  Technology: which language or framework was used in the project. Below you can see the meaning of all the abbreviations you may find on my GitHub.
+  <table>
+      <tr>
+        <th>Abbreviations</th>
+        <th>Meaning</th>
+      </tr>
+      <tr>
+        <td>HCJ</td>
+        <td>HTML, CSS, and JavaScript</td>
+      </tr>
+      <tr>
+        <td>RJ</td>
+        <td>ReactJS</td>
+      </tr>
+      <tr>
+        <td>NXT</td>
+        <td>Next.js</td>
+      </tr>
+      <tr>
+        <td>RN</td>
+        <td>React Native</td>
+      </tr>
+      <tr>
+        <td>KT</td>
+        <td>Kotlin</td>
+      </tr>
+      <tr>
+        <td>NJ</td>
+        <td>Node.js</td>
+      </tr>
+      <tr>
+        <td>NT</td>
+        <td>Nest.js</td>
+      </tr>
+  </table>
+  </li>
+ </ul>
  
  <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrodri&layout=compact&langs_count=7&theme=dark"/>
@@ -52,6 +107,3 @@ My name is Matheus Rodrigues
  <br>
  <img height="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mathrodri25&layout=compact"/>
 </div>
- <br/>
-<br/>
-<br/>
