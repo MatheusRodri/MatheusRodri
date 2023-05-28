@@ -20,6 +20,7 @@
  
  <ul>
   <li>Type: Below you can see the meaning of all the abbreviations you may find in my Github:
+  </br>
   <table>
     <tr>
       <th>Abbreviation</th>
@@ -51,6 +52,7 @@
   <li>NameOfProjects: As the name suggests, it would be the name of the project.</li>
 <li>
   Technology: which language or framework was used in the project. Below you can see the meaning of all the abbreviations you may find on my GitHub.
+  </br>
   <table>
       <tr>
         <th>Abbreviations</th>

@@ -22,6 +22,7 @@ Tipo_NomeDoProjeto_Tecnologia
 
 <ul>
   <li>Tipo: A seguir você pode ver o significado de todas as nomenclaturas que poderá encontrar no meu Github:
+  </br>
   <table>
     <tr>
       <th>Sigla</th>
@@ -53,6 +54,7 @@ Tipo_NomeDoProjeto_Tecnologia
   <li>NomeDoProjeto: Como o próprio nome diz, seria o nome do projeto </li>
 <li>
   Tecnologia: qual linguagem ou framework foi usado no projeto. Abaixo você pode ver o significado de todas as nomenclaturas que poderá encontrar no meu Github.
+  </br>
   <table>
       <tr>
         <th>Sigla</th>
