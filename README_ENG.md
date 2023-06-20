@@ -45,7 +45,7 @@
     <tr>
       <td>Cmd</td>
       <td>Command Prompt (Terminal)</td>
-      <td>Simple project that does not require a graphical interface, browser automation, or computer automation</td>
+      <td>Project execute in the terminal, can be automations,calculators... </td>
     </tr>
     </table>
   </li>
@@ -85,6 +85,10 @@
       <tr>
         <td>NT</td>
         <td>Nest.js</td>
+      </tr>
+      <tr>
+        <td>PY</td>
+        <td>Python</td>
       </tr>
   </table>
   </li>

@@ -47,7 +47,7 @@ Tipo_NomeDoProjeto_Tecnologia
     <tr>
       <td>Cmd</td>
       <td>Prompt de comando(Terminal)</td>
-      <td>Projeto simples que não requer uma interface gráfica, automações de navegador ou computador</td>
+      <td>Projeto executado via terminal, podendo ser automações,calculadora e etc...</td>
     </tr>
   </table>
   </li>
@@ -87,6 +87,10 @@ Tipo_NomeDoProjeto_Tecnologia
       <tr>
         <td>NT</td>
         <td>NestJs</td>
+      </tr>
+      <tr>
+        <td>PY</td>
+        <td>Python</td>
       </tr>
   </table>
   </li>
