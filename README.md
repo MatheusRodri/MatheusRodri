@@ -95,13 +95,15 @@ Tipo_NomeDoProjeto_Tecnologia
   </table>
   </li>
  </ul>
- <div align="center">
+ <div style="display:flex; justify-content:space-between">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrodri&layout=compact&langs_count=7&theme=dark"/>
  <br>
  <br>
  <img height="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mathrodri25&layout=compact"/>
  <br>
  <br>
+ </div>
+ <div align="center">
   ## Total de Visitas no perfil :detective: 
  <br>
  <br>
@@ -114,4 +116,3 @@ Tipo_NomeDoProjeto_Tecnologia
  <br>
  <img height="400em" src="https://spotify-github-profile.vercel.app/api/view?uid=314uddgfqeeqaepps3neyzceid7a&cover_image=true&theme=default&bar_color_cover=false"/>
 </div>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="eb28cdac-ce00-41ed-aca9-0272d103aaa2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
