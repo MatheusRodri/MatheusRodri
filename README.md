@@ -95,7 +95,7 @@ Tipo_NomeDoProjeto_Tecnologia
   </table>
   </li>
  </ul>
- <div style="display:flex; justify-content:space-between">
+ <div style="display:flex; flex-direction:row; justify-content:space-between">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrodri&layout=compact&langs_count=7&theme=dark"/>
  <br>
  <br>
