@@ -95,8 +95,9 @@ Tipo_NomeDoProjeto_Tecnologia
   </table>
   </li>
  </ul>
- <div >
+ <div align="center" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrodri&layout=compact&langs_count=7&theme=dark"/>
+ <br>
  <img height="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mathrodri25&layout=compact"/>
  </div>
  </br>
