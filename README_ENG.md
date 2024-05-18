@@ -4,16 +4,16 @@
 
 <h2>Hey guys 👋</h2>
 <p style="margin-bottom:5px">My name is Matheus Rodrigues</p>
-<p style="margin-bottom:5px">I'm 21 years old</p>
+<p style="margin-bottom:5px">I'm 22 years old</p>
 <p style="margin-bottom:5px">In 2018 started a course in a Social Institute in São Paulo where I learned algorithm, flowchart C# and MySql.</p>
 
 <p>Actually focus in my study</p>
 
-:purple_heart: &nbsp;Seeking to collaborate with projects in Front-end and Back-end
-:computer: &nbsp; My stack: JavaScript, TypeScript
-💬  &nbsp; About me: I like of avition, tecnology, eletronic music, simulation games and series in general.
-📫 &nbsp; Email: matheus.rj25@hotmail.com
-💙 &nbsp;Linkedin: https://www.linkedin.com/in/matheus-rodrigues-29759a165 
+:purple_heart: &nbsp;Seeking to collaborate with projects in Front-end and Back-end </br>
+:computer: &nbsp; My stack: JavaScript, TypeScript </br>
+💬  &nbsp; About me: I like of avition, tecnology, eletronic music, simulation games and series in general.</br>
+📫 &nbsp; Email: matheus.rj25@hotmail.com</br>
+💙 &nbsp;Linkedin: https://www.linkedin.com/in/matheus-rodrigues-29759a165 </br>
   <p>Here in my GitHub, you find several projects with different programming language and frameworks to better organization the projects are nominated this way: </p>
 
  Type_ProjectName_Language

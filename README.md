@@ -4,16 +4,19 @@
 
 <h2> Fala pessoal 👋</h2>
 <p style="margin-bottom:5px">Me chamo Matheus Rodrigues</p>
-<p style="margin-bottom:5px">Tenho 21 anos</p>
+<p style="margin-bottom:5px">Tenho 22 anos</p>
 <p style="margin-bottom:5px">Em 2018 comecei um curso em um Instituto Social em São Paulo na qual eu aprendi, algorítimo, fluxogramas, C# e MySql.
 </p>
 
  <p>Atualmente focado nos estudos e se parecer algum estágio vou garrar também</p>
 
-:purple_heart: &nbsp; Buscando desenvolver diversos tipos de projetos, front-end,back-end e console.
-:computer: &nbsp; Minha stack: JavaScript, Typescript
-💬 &nbsp; Sobre mim: Gosto de aviação, tecnologia,musica eletrônica, games de simulação e series da Netflix, AmazonPrime, entre outras plataformas de streaming de vídeo.
-📫 &nbsp;Email: matheus.rj25@hotmail.com
+:purple_heart: &nbsp; Buscando desenvolver diversos tipos de projetos, front-end,back-end e console.</br>
+
+:computer: &nbsp; Minha stack: JavaScript, Typescript, CSharp, Python, React Native, ReactJs, NextJs </br>
+
+💬 &nbsp; Sobre mim: Gosto de aviação, tecnologia,musica eletrônica, games de simulação e series da Netflix, AmazonPrime, entre outras plataformas de streaming de vídeo.</br>
+
+📫 &nbsp;Email: matheus.rj25@hotmail.com</br>
 💙 &nbsp;LinkedIn: [Matheus Rodrigues](https://www.linkedin.com/in/matheus-rodrigues-29759a165)
 
 <p>Aqui no meu github você vai encontrar vários projetos em diferentes linguagens e frameworks, para melhor organização os projetos estão nomeados da seguinte forma:</p>
