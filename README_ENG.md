@@ -11,7 +11,7 @@
 
 :purple_heart: &nbsp;Seeking to collaborate with projects in Front-end and Back-end </br>
 :computer: &nbsp; My stack: JavaScript, TypeScript </br>
-💬  &nbsp; About me: I like of avition, tecnology, eletronic music, simulation games and series in general.</br>
+💬  &nbsp; About me: I like of aviation, technology, electronic music, simulation games and series in general.</br>
 📫 &nbsp; Email: matheus.rj25@hotmail.com</br>
 💙 &nbsp;Linkedin: https://www.linkedin.com/in/matheus-rodrigues-29759a165 </br>
   <p>Here in my GitHub, you find several projects with different programming language and frameworks to better organization the projects are nominated this way: </p>
