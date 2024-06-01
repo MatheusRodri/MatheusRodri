@@ -2,24 +2,25 @@
 
 <a href="/README_ENG.MD">Readme in english</a>
 
+<h2>⚠️Aviso⚠️</h2>
+<p>&nbsp;&nbsp;&nbsp;Antes de continuar a ler meu README, vai um aviso. Há mais ou menos 6 meses atrás eu apaguei mais de 35 projetos que tinha,comecei a me deparar com projetos na qual requisitava algumas configurações de ambiente(Gerar uma chave hash, rodar determinado comando...) e não lembrava mais como rodava, então estou assistindo e criando todos os projetos novamente e com uma documentação para que todos consiga rodar o projeto e fazer as modificações que deseja. </p>
+<p>&nbsp;&nbsp;&nbsp; Se você tiver alguma dica de como posso melhorar o meu Github, entre em contato comigo pelo meu LinkedIn</p>
+
 <h2> Fala pessoal 👋</h2>
 <p style="margin-bottom:5px">Me chamo Matheus Rodrigues</p>
 <p style="margin-bottom:5px">Tenho 22 anos</p>
 <p style="margin-bottom:5px">Em 2018 comecei um curso em um Instituto Social em São Paulo na qual eu aprendi, algorítimo, fluxogramas, C# e MySql.
 </p>
 
- <p>Atualmente focado nos estudos e se parecer algum estágio vou garrar também</p>
+ <p>Atualmente estagiário na area de risco varejo PJ, no Santander Brasil, nos meus momentos livres gosto de jogar alguns games e estudando diversos assuntos.</p>
 
-:purple_heart: &nbsp; Buscando desenvolver diversos tipos de projetos, front-end,back-end e console.</br>
 
 :computer: &nbsp; Minha stack: JavaScript, Typescript, CSharp, Python, React Native, ReactJs, NextJs </br>
-
-💬 &nbsp; Sobre mim: Gosto de aviação, tecnologia,musica eletrônica, games de simulação e series da Netflix, AmazonPrime, entre outras plataformas de streaming de vídeo.</br>
 
 📫 &nbsp;Email: matheus.rj25@hotmail.com</br>
 💙 &nbsp;LinkedIn: [Matheus Rodrigues](https://www.linkedin.com/in/matheus-rodrigues-29759a165)
 
-<p>Aqui no meu github você vai encontrar vários projetos em diferentes linguagens e frameworks, para melhor organização os projetos estão nomeados da seguinte forma:</p>
+<p>Gosto de deixar as coisas bem organizadas, para que eu o outra pessoa possa ser encontrar algo, por isso criei uma forma de organizar meus projetos aqui no Github. Sendo:</p>
 
 Tipo_NomeDoProjeto_Tecnologia
 
@@ -98,6 +99,8 @@ Tipo_NomeDoProjeto_Tecnologia
   </table>
   </li>
  </ul>
+
+ <p>Acho que desse jeito vai ficar mais fácil de encontrar algum projeto aqui em meu Github</p>
  <div align="center" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrodri&layout=compact&langs_count=7&theme=dark"/>
  <br>
