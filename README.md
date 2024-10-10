@@ -1,6 +1,6 @@
 <h1> Matheus Rodrigues </h1>
 
-<a href="./README_ENG.MD">Readme in english</a>
+<a href="https://github.com/MatheusRodri/MatheusRodri/blob/master/README_ENG.md">Readme in english</a>
 
 <h2>⚠️Aviso⚠️</h2>
 <p>&nbsp;&nbsp;&nbsp;Antes de continuar a ler meu README, vai um aviso. Há mais ou menos 6 meses atrás eu apaguei mais de 35 projetos que tinha,comecei a me deparar com projetos na qual requisitava algumas configurações de ambiente(Gerar uma chave hash, rodar determinado comando...) e não lembrava mais como rodava, então estou assistindo e criando todos os projetos novamente e com uma documentação para que todos consiga rodar o projeto e fazer as modificações que deseja. </p>

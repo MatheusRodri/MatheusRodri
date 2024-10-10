@@ -1,6 +1,6 @@
 <h1>Matheus Rodrigues</h1>
 
-<a href="./README.MD">Readme em portugues</a>
+<a href="https://github.com/MatheusRodri/MatheusRodri/blob/master/README.md">Readme em portugues</a>
 
 <h2>Hey guys 👋</h2>
 <p style="margin-bottom:5px">My name is Matheus Rodrigues</p>
@@ -109,7 +109,4 @@
  <br>
  <br>
  <img height="400em" src="https://spotify-github-profile.vercel.app/api/view?uid=314uddgfqeeqaepps3neyzceid7a&cover_image=true&theme=default&bar_color_cover=false"/>
- <br>
- <br>
- <img height="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mathrodri25&layout=compact"/>
 </div>
