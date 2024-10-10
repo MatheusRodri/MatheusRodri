@@ -1,6 +1,6 @@
 <h1>Matheus Rodrigues</h1>
 
-<a href="/README.MD">Readme em portugues</a>
+<a href="./README.MD">Readme em portugues</a>
 
 <h2>Hey guys 👋</h2>
 <p style="margin-bottom:5px">My name is Matheus Rodrigues</p>

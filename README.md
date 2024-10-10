@@ -1,6 +1,6 @@
 <h1> Matheus Rodrigues </h1>
 
-<a href="/README_ENG.MD">Readme in english</a>
+<a href="./README_ENG.MD">Readme in english</a>
 
 <h2>⚠️Aviso⚠️</h2>
 <p>&nbsp;&nbsp;&nbsp;Antes de continuar a ler meu README, vai um aviso. Há mais ou menos 6 meses atrás eu apaguei mais de 35 projetos que tinha,comecei a me deparar com projetos na qual requisitava algumas configurações de ambiente(Gerar uma chave hash, rodar determinado comando...) e não lembrava mais como rodava, então estou assistindo e criando todos os projetos novamente e com uma documentação para que todos consiga rodar o projeto e fazer as modificações que deseja. </p>
@@ -20,7 +20,7 @@
 📫 &nbsp;Email: matheus.rj25@hotmail.com</br>
 💙 &nbsp;LinkedIn: [Matheus Rodrigues](https://www.linkedin.com/in/matheus-rodrigues-29759a165)
 
-<p>Gosto de deixar as coisas bem organizadas, para que eu o outra pessoa possa ser encontrar algo, por isso criei uma forma de organizar meus projetos aqui no Github. Sendo:</p>
+<p>Gosto de deixar as coisas bem organizadas, para que eu e você possa encontrar o repositório desejado, por isso criei uma forma de organizar meus projetos aqui no Github. Sendo:</p>
 
 Tipo_NomeDoProjeto_Tecnologia
 
@@ -35,8 +35,8 @@ Tipo_NomeDoProjeto_Tecnologia
     </tr>
     <tr>
       <td>Api</td>
-      <td>Website</td>
-      <td>Projeto somente o front-end (Podendo ter a conexão com alguma api ou não)</td>
+      <td>Interface de programação de aplicação</td>
+      <td>Projeto com foco em backend</td>
     </tr>
     <tr>
       <td>App</td>
@@ -53,9 +53,14 @@ Tipo_NomeDoProjeto_Tecnologia
       <td>Prompt de comando(Terminal)</td>
       <td>Projeto executado via terminal, podendo ser automações,calculadora e etc...</td>
     </tr>
+    <tr>
+      <td>Learn</td>
+      <td>Aprendizado</td>
+      <td>Projeto com o intuito de documentar meu aprendizado com alguma linguagem de programação especifica.</td>
+    </tr>
   </table>
   </li>
-  <li>NomeDoProjeto: Como o próprio nome diz, seria o nome do projeto </li>
+  <li>NomeDoProjeto: Nome do projeto </li>
 <li>
   Tecnologia: qual linguagem ou framework foi usado no projeto. Abaixo você pode ver o significado de todas as nomenclaturas que poderá encontrar no meu Github.
   </br>
@@ -104,7 +109,6 @@ Tipo_NomeDoProjeto_Tecnologia
  <div align="center" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrodri&layout=compact&langs_count=7&theme=dark"/>
  <br>
- <img height="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mathrodri25&layout=compact"/>
  </div>
  </br>
  <div align="center">
