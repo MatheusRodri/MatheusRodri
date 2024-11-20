@@ -11,7 +11,7 @@
  <p>Atualmente estagiário na area de risco varejo PJ, no Santander Brasil, nos meus momentos livres gosto de jogar alguns games e estudando diversos assuntos.</p>
 
 
-:computer: &nbsp; Minha stack: JavaScript, Typescript, CSharp, Python, React Native, ReactJs, NextJs </br>
+:computer: &nbsp; Minha stack: JavaScript, Typescript, CSharp, Python, React Native, ReactJs, NextJs, SQL, Excel, Power BI </br>
 
 📫 &nbsp;Email: matheus.rj25@hotmail.com</br>
 💙 &nbsp;LinkedIn: [Matheus Rodrigues](https://www.linkedin.com/in/matheus-rodrigues-29759a165)
