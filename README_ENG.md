@@ -10,7 +10,7 @@
 <p>Actually focus in my study</p>
 
 :purple_heart: &nbsp;Seeking to collaborate with projects in Front-end and Back-end </br>
-:computer: &nbsp; My stack: JavaScript, TypeScript </br>
+:computer: &nbsp; My stack: JavaScript, Typescript, CSharp, Python, React Native, ReactJs, NextJs, SQL, Excel, Power BI </br>
 💬  &nbsp; About me: I like of aviation, technology, electronic music, simulation games and series in general.</br>
 📫 &nbsp; Email: matheus.rj25@hotmail.com</br>
 💙 &nbsp;Linkedin: https://www.linkedin.com/in/matheus-rodrigues-29759a165 </br>
