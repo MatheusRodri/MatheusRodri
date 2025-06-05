@@ -4,7 +4,7 @@
 
 <h2> Fala pessoal 👋</h2>
 <p style="margin-bottom:5px">Me chamo Matheus Rodrigues</p>
-<p style="margin-bottom:5px">Tenho 22 anos</p>
+<p style="margin-bottom:5px">Tenho 23 anos</p>
 <p style="margin-bottom:5px">Em 2018 comecei um curso em um Instituto Social em São Paulo na qual eu aprendi, algorítimo, fluxogramas, C# e MySql.
 </p>
 
@@ -97,12 +97,24 @@ Tipo_NomeDoProjeto_Tecnologia
         <td>PY</td>
         <td>Python</td>
       </tr>
+      <tr>
+        <td>JV</td>
+        <td>Java</td>
+      </tr>
+      <tr>
+        <td>EX</td>
+        <td>Excel</td>
+      </tr>
+       <tr>
+        <td>CS</td>
+        <td>CSharp</td>
+      </tr>
   </table>
   </li>
  </ul>
-
- <p>Acho que desse jeito vai ficar mais fácil de encontrar algum projeto aqui em meu Github</p>
- <div align="center" >
+<br>
+<br>
+<div align="center" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrodri&layout=compact&langs_count=7&theme=dark"/>
  <br>
  </div>
@@ -113,10 +125,4 @@ Tipo_NomeDoProjeto_Tecnologia
  <br>
     <img alingn="center" src="https://profile-counter.glitch.me/matheusrodri/count.svg" />
  <br>
- <br>
- <br>
- 🎧 Ouvindo...
- <br>
- <br>
- <img height="400em" src="https://spotify-github-profile.vercel.app/api/view?uid=314uddgfqeeqaepps3neyzceid7a&cover_image=true&theme=default&bar_color_cover=false"/>
 </div>

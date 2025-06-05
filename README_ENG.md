@@ -4,7 +4,7 @@
 
 <h2>Hey guys 👋</h2>
 <p style="margin-bottom:5px">My name is Matheus Rodrigues</p>
-<p style="margin-bottom:5px">I'm 22 years old</p>
+<p style="margin-bottom:5px">I'm 23 years old</p>
 <p style="margin-bottom:5px">In 2018 started a course in a Social Institute in São Paulo where I learned algorithm, flowchart C# and MySql.</p>
 
 <p>Actually focus in my study</p>
@@ -90,23 +90,30 @@
         <td>PY</td>
         <td>Python</td>
       </tr>
+      <tr>
+        <td>JV</td>
+        <td>Java</td>
+      </tr>
+      <tr>
+        <td>EX</td>
+        <td>Excel</td>
+      </tr>
+      <tr>
+        <td>CS</td>
+        <td>CSharp</td>
+      </tr>
   </table>
   </li>
  </ul>
- 
+ <br>
+ <br>
  <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrodri&layout=compact&langs_count=7&theme=dark"/>
  <br>
  <br>
+ 
   ## Total of visit in profile :detective: 
  <br>
  <br>
     <img alingn="center" src="https://profile-counter.glitch.me/matheusrodri/count.svg" />
- <br>
- <br>
- <br>
- 🎧 Listening...
- <br>
- <br>
- <img height="400em" src="https://spotify-github-profile.vercel.app/api/view?uid=314uddgfqeeqaepps3neyzceid7a&cover_image=true&theme=default&bar_color_cover=false"/>
 </div>
