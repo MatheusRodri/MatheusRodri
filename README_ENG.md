@@ -102,6 +102,10 @@
         <td>CS</td>
         <td>CSharp</td>
       </tr>
+      <tr>
+        <td>NG</td>
+        <td>AngularJs</td>
+      </tr>
   </table>
   </li>
  </ul>
