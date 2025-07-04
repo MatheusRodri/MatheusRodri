@@ -49,6 +49,11 @@ Tipo_NomeDoProjeto_Tecnologia
       <td>Prompt de comando(Terminal)</td>
       <td>Projeto executado via terminal, podendo ser automações,calculadora e etc...</td>
     </tr>
+   <tr>
+    <td>Data</td>
+    <td>Dados</td>
+    <td>Projeto que envolve dados (Tratamento, dashboards...)</td>
+   </tr>
     <tr>
       <td>Learn</td>
       <td>Aprendizado</td>
