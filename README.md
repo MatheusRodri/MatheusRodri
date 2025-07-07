@@ -16,7 +16,7 @@
 📫 &nbsp;Email: matheus.rj25@hotmail.com</br>
 💙 &nbsp;LinkedIn: [Matheus Rodrigues](https://www.linkedin.com/in/matheus-rodrigues-29759a165)
 
-<p>Gosto de deixar as coisas bem organizadas, para que eu e você possa encontrar o repositório desejado, por isso criei uma forma de organizar meus projetos aqui no Github. Sendo:</p>
+<p>Gosto de deixar as coisas bem organizadas, para que eu e você possa encontrar o repositório desejado, por isso criei uma forma de organizar meus projetos aqui no Github, sendo:</p>
 
 Tipo_NomeDoProjeto_Tecnologia
 
