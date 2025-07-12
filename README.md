@@ -54,6 +54,11 @@ Tipo_NomeDoProjeto_Tecnologia
     <td>Dados</td>
     <td>Projeto que envolve dados (Tratamento, dashboards...)</td>
    </tr>
+   <tr>
+    <td>Bot</td>
+    <td>Bot</td>
+    <td>Projeto que envolve a construção de bot para o Discord ou Telegram</td>
+   </tr>
     <tr>
       <td>Learn</td>
       <td>Aprendizado</td>
