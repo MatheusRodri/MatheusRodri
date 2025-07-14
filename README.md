@@ -132,11 +132,4 @@ Tipo_NomeDoProjeto_Tecnologia
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrodri&layout=compact&langs_count=7&theme=dark"/>
  <br>
  </div>
- </br>
- <div align="center">
-  ## Total de Visitas no perfil :detective: 
- <br>
- <br>
-    <img alingn="center" src="https://profile-counter.glitch.me/matheusrodri/count.svg" />
- <br>
 </div>
