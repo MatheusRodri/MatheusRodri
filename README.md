@@ -57,7 +57,7 @@ Tipo_NomeDoProjeto_Tecnologia
    <tr>
     <td>Bot</td>
     <td>Bot</td>
-    <td>Projeto que envolve a construção de bot para o Discord ou Telegram</td>
+    <td>Projeto que envolve a construção de um robô para o Discord ou Telegram</td>
    </tr>
     <tr>
       <td>Learn</td>
