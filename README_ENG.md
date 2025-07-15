@@ -113,11 +113,4 @@
  <br>
  <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrodri&layout=compact&langs_count=7&theme=dark"/>
- <br>
- <br>
- 
-  ## Total of visit in profile :detective: 
- <br>
- <br>
-    <img alingn="center" src="https://profile-counter.glitch.me/matheusrodri/count.svg" />
-</div>
+  </div>
