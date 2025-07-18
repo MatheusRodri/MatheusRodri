@@ -8,7 +8,7 @@
 <p style="margin-bottom:5px">Em 2018 comecei um curso em um Instituto Social em São Paulo na qual eu aprendi, algorítimo, fluxogramas, C# e MySql.
 </p>
 
- <p>Atualmente estagiário na area de risco varejo PJ, no Santander Brasil, nos meus momentos livres gosto de jogar alguns games e estudando diversos assuntos.</p>
+ <p>Nos meus momentos livres gosto de jogar alguns games e estudando diversos assuntos.</p>
 
 
 :computer: &nbsp; Minha stack: JavaScript, Typescript, CSharp, Python, React Native, ReactJs, NextJs, SQL, Excel, Power BI </br>
