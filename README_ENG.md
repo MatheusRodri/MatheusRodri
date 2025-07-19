@@ -62,13 +62,13 @@
         <td>HCJ</td>
         <td>HTML, CSS, and JavaScript</td>
       </tr>
-      <tr>
+       <tr>
         <td>RJ</td>
-        <td>ReactJS</td>
+        <td>ReactJs</td>
       </tr>
       <tr>
         <td>NXT</td>
-        <td>Next.js</td>
+        <td>NextJs</td>
       </tr>
       <tr>
         <td>RN</td>
@@ -80,11 +80,11 @@
       </tr>
       <tr>
         <td>NJ</td>
-        <td>Node.js</td>
+        <td>NodeJs</td>
       </tr>
       <tr>
         <td>NT</td>
-        <td>Nest.js</td>
+        <td>NestJs</td>
       </tr>
       <tr>
         <td>PY</td>
@@ -98,7 +98,7 @@
         <td>EX</td>
         <td>Excel</td>
       </tr>
-      <tr>
+       <tr>
         <td>CS</td>
         <td>CSharp</td>
       </tr>
