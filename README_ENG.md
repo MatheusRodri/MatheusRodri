@@ -47,6 +47,21 @@
       <td>Command Prompt (Terminal)</td>
       <td>Project execute in the terminal, can be automations,calculators... </td>
     </tr>
+			<tr>
+    <td>Data</td>
+    <td>Data</td>
+    <td>Project that involves data analysis, dashboard construction and much more. </td>
+   </tr>
+   <tr>
+    <td>Bot</td>
+    <td>Bot</td>
+    <td>Projet that involves the development of a bot to Discord or Telegram</td>
+   </tr>
+    <tr>
+      <td>Learn</td>
+      <td>Learn</td>
+      <td>Project with purpose of doc my learn in various programming languagens.</td>
+    </tr>
     </table>
   </li>
   <li>NameOfProjects: As the name suggests, it would be the name of the project.</li>
