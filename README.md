@@ -18,7 +18,7 @@
 
 <p>Gosto de deixar as coisas bem organizadas, para que eu e você possa encontrar o repositório desejado, por isso criei uma forma de organizar meus projetos aqui no Github, sendo:</p>
 
-Tipo_NomeDoProjeto_Tecnologia
+<p>Tipo_NomeDoProjeto_Tecnologia</p>
 
 <ul>
   <li>Tipo: A seguir você pode ver o significado de todas as nomenclaturas que poderá encontrar no meu Github:
