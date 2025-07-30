@@ -1,131 +1,75 @@
-<h1>Matheus Rodrigues</h1>
+# Matheus Rodrigues
 
-<a href="https://github.com/MatheusRodri/MatheusRodri/blob/master/README.md">Readme em portugues</a>
+[🇧🇷 Versão em Português](https://github.com/MatheusRodri/MatheusRodri/blob/master/README.md)
 
-<h2>Hey guys 👋</h2>
-<p style="margin-bottom:5px">My name is Matheus Rodrigues</p>
-<p style="margin-bottom:5px">I'm 23 years old</p>
-<p style="margin-bottom:5px">In 2018 started a course in a Social Institute in São Paulo where I learned algorithm, flowchart C# and MySql.</p>
+## 👋 Hello everyone!
 
-<p>Actually focus in my study</p>
+My name is Matheus Rodrigues, I am 23 years old.  
+Since 2018, I have been immersed in technology through courses focused on algorithms, C#, and MySQL.
 
-:purple_heart: &nbsp;Seeking to collaborate with projects in Front-end and Back-end </br>
-:computer: &nbsp; My stack: JavaScript, Typescript, CSharp, Python, React Native, ReactJs, NextJs, SQL, Excel, Power BI </br>
-💬  &nbsp; About me: I like of aviation, technology, electronic music, simulation games and series in general.</br>
-📫 &nbsp; Email: matheus.rj25@hotmail.com</br>
-💙 &nbsp;Linkedin: https://www.linkedin.com/in/matheus-rodrigues-29759a165 </br>
-  <p>Here in my GitHub, you find several projects with different programming language and frameworks to better organization the projects are nominated this way: </p>
+🎮 In my free time, I enjoy playing games and learning about various topics.
 
- Type_ProjectName_Language
- 
- <ul>
-  <li>Type: Below you can see the meaning of all the abbreviations you may find in my Github:
-  </br>
-  <table>
-    <tr>
-      <th>Abbreviation</th>
-      <th>Meaning</th>
-      <th>Explanation</th>
-    </tr>
-    <tr>
-      <td>Api</td>
-      <td>Website</td>
-      <td>Front-end project (may or may not have a connection to an API)</td>
-    </tr>
-    <tr>
-      <td>App</td>
-      <td>Mobile application</td>
-      <td>Front-end project for mobile devices (may or may not have a connection to an API)</td>
-    </tr>
-    <tr>
-      <td>Web</td>
-      <td>Website</td>
-      <td>Front-end project (may or may not have a connection to an API)</td>
-    </tr>
-    <tr>
-      <td>Cmd</td>
-      <td>Command Prompt (Terminal)</td>
-      <td>Project execute in the terminal, can be automations,calculators... </td>
-    </tr>
-			<tr>
-    <td>Data</td>
-    <td>Data</td>
-    <td>Project that involves data analysis, dashboard construction and much more. </td>
-   </tr>
-   <tr>
-    <td>Bot</td>
-    <td>Bot</td>
-    <td>Projet that involves the development of a bot to Discord or Telegram</td>
-   </tr>
-    <tr>
-      <td>Learn</td>
-      <td>Learn</td>
-      <td>Project with purpose of doc my learn in various programming languagens.</td>
-    </tr>
-    </table>
-  </li>
-  <li>NameOfProjects: As the name suggests, it would be the name of the project.</li>
-<li>
-  Technology: which language or framework was used in the project. Below you can see the meaning of all the abbreviations you may find on my GitHub.
-  </br>
-  <table>
-      <tr>
-        <th>Abbreviations</th>
-        <th>Meaning</th>
-      </tr>
-      <tr>
-        <td>HCJ</td>
-        <td>HTML, CSS, and JavaScript</td>
-      </tr>
-       <tr>
-        <td>RJ</td>
-        <td>ReactJs</td>
-      </tr>
-      <tr>
-        <td>NXT</td>
-        <td>NextJs</td>
-      </tr>
-      <tr>
-        <td>RN</td>
-        <td>React Native</td>
-      </tr>
-      <tr>
-        <td>KT</td>
-        <td>Kotlin</td>
-      </tr>
-      <tr>
-        <td>NJ</td>
-        <td>NodeJs</td>
-      </tr>
-      <tr>
-        <td>NT</td>
-        <td>NestJs</td>
-      </tr>
-      <tr>
-        <td>PY</td>
-        <td>Python</td>
-      </tr>
-      <tr>
-        <td>JV</td>
-        <td>Java</td>
-      </tr>
-      <tr>
-        <td>EX</td>
-        <td>Excel</td>
-      </tr>
-       <tr>
-        <td>CS</td>
-        <td>CSharp</td>
-      </tr>
-      <tr>
-        <td>NG</td>
-        <td>AngularJs</td>
-      </tr>
-  </table>
-  </li>
- </ul>
- <br>
- <br>
- <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrodri&layout=compact&langs_count=7&theme=dark"/>
-  </div>
+## 💻 My Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![CSharp](https://img.shields.io/badge/CSharp-239120?logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
+![ReactJS](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![NextJS](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+
+## 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-rodrigues-29759a165)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:matheus.rj25@hotmail.com)
+
+## 📁 Repository Organization
+
+I like to keep things well organized so that both you and I can easily find the desired repository. Therefore, I created a way to organize my projects here on GitHub:  
+**Type_ProjectName_Technology**
+
+- **Type**: see legend below  
+- **ProjectName**: name of the project  
+- **Technology**: programming language or framework used in the project
+
+## 🗂️ Type Legend
+
+| Acronym | Meaning                         | Explanation                                         |
+|---------|---------------------------------|-----------------------------------------------------|
+| Api     | Application Programming Interface | Backend focused project                            |
+| App     | Mobile Application               | Mobile front-end project (may connect to an API or not) |
+| Web     | Website                         | Front-end project (may connect to an API or not)    |
+| Cmd     | Command Prompt                  | Terminal projects: automations, calculators, etc.   |
+| Data    | Data                           | Projects involving data treatment, dashboards, etc. |
+| Bot     | Bot                            | Bots for Discord, Telegram, etc.                     |
+| Learn   | Learning                       | Projects intended to document study of languages    |
+
+## 🖥️ Technology Legend
+
+| Acronym | Technology                |
+|---------|----------------------------|
+| vanilla | Pure HTML, CSS, and JavaScript |
+| RJ      | ReactJs                   |
+| NXT     | NextJs                    |
+| RN      | React Native              |
+| KT      | Kotlin                    |
+| NJ      | NodeJs                    |
+| NT      | NestJs                    |
+| PY      | Python                    |
+| JV      | Java                      |
+| EX      | Excel                     |
+| CS      | CSharp                    |
+| NG      | AngularJs                 |
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrodri&layout=compact&langs_count=7&theme=dark)  
+![Matheus Github Stats](https://github-readme-stats.vercel.app/api?username=matheusrodri&show_icons=true&theme=dark)
+
+---
+
+> Feel free to explore my repositories or get in touch with me!
