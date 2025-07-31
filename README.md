@@ -7,7 +7,7 @@
 ## 👋 Fala pessoal!
 
 Me chamo Matheus Rodrigues, tenho 23 anos.  
-Desde 2018 mergulhei em tecnologia com cursos focados em algoritmos, C# e MySQL.
+Desde 2018 mergulhei no mundo da programação.
 
 
 🎮 Nos momentos livres, adoro jogar games e aprender sobre diversos assuntos.
