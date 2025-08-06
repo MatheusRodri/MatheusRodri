@@ -82,3 +82,5 @@ Gosto de deixar as coisas bem organizadas, para que eu e você possamos encontra
 ---
 
 > Sinta-se à vontade para visitar meus repositórios ou entrar em contato comigo!
+
+---
