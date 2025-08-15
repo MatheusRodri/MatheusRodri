@@ -79,7 +79,7 @@ Gosto de deixar as coisas bem organizadas, para que eu e você possamos encontra
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrodri&layout=compact&langs_count=7&theme=dark)
 ![Matheus Github Stats](https://github-readme-stats.vercel.app/api?username=matheusrodri&show_icons=true&theme=dark)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matheusrodri)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matheusrodri&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
