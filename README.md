@@ -16,21 +16,25 @@ Desde 2018 mergulhei no mundo da programação.
 
 ## 💻 Minha Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
-![CSharp](https://img.shields.io/badge/CSharp-239120?logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
-![ReactJS](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![NextJS](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
-
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![CSharp](https://img.shields.io/badge/CSharp-239120?logo=csharp&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
+![ReactJS](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![NextJS](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-rodrigues-29759a165)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-rodrigues-mrj)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:matheus.rj25@hotmail.com)
 
 
@@ -46,33 +50,33 @@ Gosto de deixar as coisas bem organizadas, para que eu e você possamos encontra
 
 ## 🗂️ Legenda de Tipos
 
-| Sigla | Significado       | Explicação                                                               |
-|-------|-------------------|-------------------------------------------------------------------------|
-| Api   | Interface de programação de aplicação | Projeto com foco em backend |
-| App   | Aplicativo mobile | Projeto front-end mobile (conectando a API ou não)                      |
-| Web   | Website           | Projeto front-end (conectando a API ou não)                             |
-| Cmd   | Prompt de comando | Projeto para terminal: automações, calculadora etc.                     |
-| Data  | Dados             | Projeto envolvendo tratamento de dados, dashboards...                    |
-| Bot   | Bot               | Robô para Discord, Telegram, etc.                                       |
-| Learn | Aprendizado       | Projetos para documentar estudo de linguagens                            |
+| Sigla | Significado                           | Explicação                                            |
+|-------|---------------------------------------|-------------------------------------------------------|
+| Api   | Interface de programação de aplicação | Projeto com foco em backend                           |
+| App   | Aplicativo mobile                     | Projeto front-end mobile (conectando a API ou não)    |
+| Bot   | Bot                                   | Robô para Discord, Telegram, etc.                     |
+| Cmd   | Prompt de comando                     | Projeto para terminal: automações, calculadora etc.   |
+| Data  | Dados                                 | Projeto envolvendo tratamento de dados, dashboards... |
+| Learn | Aprendizado                           | Projetos para documentar estudo de linguagens         |
+| Web   | Website                               | Projeto front-end (conectando a API ou não)           |
 
 
 ## 🖥️ Legenda de Tecnologias
 
-| Sigla | Tecnologia         |
-|-------|--------------------|
-| vanilla   | HTML, CSS e JS |
-| RJ    | ReactJs            |
-| NXT   | NextJs             |
-| RN    | React Native       |
-| KT    | Kotlin             |
-| NJ    | NodeJs             |
-| NT    | NestJs             |
-| PY    | Python             |
-| JV    | Java               |
-| EX    | Excel              |
-| CS    | CSharp             |
-| NG    | AngularJs          |
+| Sigla     | Tecnologia         |
+|-----------|--------------------|
+| CS        | CSharp             |
+| EX        | Excel              |
+| JV        | Java               |
+| NJ        | NodeJs             |
+| KT        | Kotlin             |
+| NG        | AngularJs          |
+| NT        | NestJs             |
+| NXT       | NextJs             |
+| RJ        | ReactJs            |
+| RN        | React Native       |
+| PY        | Python             |
+| vanilla   | HTML, CSS e JS     |
 
 
 ## 📊 Estatísticas do GitHub
