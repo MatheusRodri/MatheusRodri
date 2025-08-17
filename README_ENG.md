@@ -11,16 +11,21 @@ Since 2018, I have been immersed in technology through courses focused on algori
 
 ## 💻 My Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
-![CSharp](https://img.shields.io/badge/CSharp-239120?logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
-![ReactJS](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![NextJS](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![CSharp](https://img.shields.io/badge/CSharp-239120?logo=csharp&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
+![ReactJS](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![NextJS](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 
 ## 📫 Contact Me
 
@@ -38,38 +43,39 @@ I like to keep things well organized so that both you and I can easily find the 
 
 ## 🗂️ Type Legend
 
-| Acronym | Meaning                         | Explanation                                         |
-|---------|---------------------------------|-----------------------------------------------------|
-| Api     | Application Programming Interface | Backend focused project                            |
-| App     | Mobile Application               | Mobile front-end project (may connect to an API or not) |
-| Web     | Website                         | Front-end project (may connect to an API or not)    |
-| Cmd     | Command Prompt                  | Terminal projects: automations, calculators, etc.   |
-| Data    | Data                           | Projects involving data treatment, dashboards, etc. |
-| Bot     | Bot                            | Bots for Discord, Telegram, etc.                     |
-| Learn   | Learning                       | Projects intended to document study of languages    |
+| Abbreviation | Meaning                           | Description                                           |
+|--------------|-----------------------------------|-------------------------------------------------------|
+| Api          | Application Programming Interface | Backend-focused project                               |
+| App          | Mobile Application                | Front-end mobile project (connecting to API or not)   |
+| Bot          | Bot                               | Bot for Discord, Telegram, etc.                       |
+| Cmd          | Command Prompt                    | Terminal project: automation, calculator, etc.        |
+| Data         | Data                              | Project involving data processing, dashboards...      |
+| Learn        | Learning                          | Projects to document language study                   |
+| Web          | Website                           | Front-end project (connecting to API or not)          |
+
 
 ## 🖥️ Technology Legend
 
-| Acronym | Technology                |
-|---------|----------------------------|
-| vanilla | Pure HTML, CSS, and JavaScript |
-| RJ      | ReactJs                   |
-| NXT     | NextJs                    |
-| RN      | React Native              |
-| KT      | Kotlin                    |
-| NJ      | NodeJs                    |
-| NT      | NestJs                    |
-| PY      | Python                    |
-| JV      | Java                      |
-| EX      | Excel                     |
-| CS      | CSharp                    |
-| NG      | AngularJs                 |
+| Abbreviation     | Technology         |
+|------------------|--------------------|
+| CS               | CSharp             |
+| EX               | Excel              |
+| JV               | Java               |
+| NJ               | NodeJs             |
+| KT               | Kotlin             |
+| NG               | AngularJs          |
+| NT               | NestJs             |
+| NXT              | NextJs             |
+| RJ               | ReactJs            |
+| RN               | React Native       |
+| PY               | Python             |
+| vanilla          | HTML, CSS and JS   |
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrodri&layout=compact&langs_count=7&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrodri&layout=compact&langs_count=7&theme=dark)
 ![Matheus Github Stats](https://github-readme-stats.vercel.app/api?username=matheusrodri&show_icons=true&theme=dark)
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matheusrodri&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 > Feel free to explore my repositories or get in touch with me!
