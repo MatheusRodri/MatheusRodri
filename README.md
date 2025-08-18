@@ -86,6 +86,21 @@ Gosto de deixar as coisas bem organizadas, para que eu e você possamos encontra
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matheusrodri&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+## Minhas redes
+
+[Portifolio pessoal](https://portfolio.techmatheus.com/)
+
+[Github](https://github.com/MatheusRodri)
+
+[Medium](https://medium.com/@techmatheus)
+
+[Reddit](https://www.reddit.com/user/techmatheus/)
+
+[Instagram](https://www.instagram.com/otechmatheus/)
+
+[X](https://x.com/OTechMatheus)
+
+
 ---
 
 > Sinta-se à vontade para visitar meus repositórios ou entrar em contato comigo!

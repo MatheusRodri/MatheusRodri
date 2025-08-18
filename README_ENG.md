@@ -78,4 +78,18 @@ I like to keep things well organized so that both you and I can easily find the 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matheusrodri&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
+## My Social Media
+
+[Portifolio](https://portfolio.techmatheus.com/)
+
+[Github](https://github.com/MatheusRodri)
+
+[Medium](https://medium.com/@techmatheus)
+
+[Reddit](https://www.reddit.com/user/techmatheus/)
+
+[Instagram](https://www.instagram.com/otechmatheus/)
+
+[X](https://x.com/OTechMatheus)
+
 > Feel free to explore my repositories or get in touch with me!
