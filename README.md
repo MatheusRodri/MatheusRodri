@@ -60,7 +60,7 @@ Gosto de deixar as coisas bem organizadas, para que eu e você possamos encontra
 | Learn | Aprendizado                           | Projetos para documentar estudo de linguagens         |
 | Web   | Website                               | Projeto front-end (conectando a API ou não)           |
 
-
+--- 
 ## 🖥️ Legenda de Tecnologias
 
 | Sigla     | Tecnologia         |
