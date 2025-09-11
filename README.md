@@ -12,7 +12,7 @@ Desde 2018 mergulhei no mundo da programação.
 [![wakatime](https://wakatime.com/badge/user/13aa3a18-4e3a-4824-a7b7-3c8db8d38a14.svg)](https://wakatime.com/@13aa3a18-4e3a-4824-a7b7-3c8db8d38a14)
 
 
-🎮 Nos momentos livres, adoro jogar games e aprender sobre diversos assuntos.
+🎮 Nos momentos livres, adoro jogar games, assistir corridas de automobilismo e aprender sobre diversos assuntos.
 
 ## 💻 Minha Stack
 
