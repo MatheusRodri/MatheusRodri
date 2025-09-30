@@ -41,10 +41,10 @@ Desde 2018 mergulhei no mundo da programação.
 ## 📁 Organização dos Repositórios
 
 Gosto de deixar as coisas bem organizadas, para que eu e você possamos encontrar o repositório desejado. Por isso, criei uma forma de organizar meus projetos aqui no GitHub:  
-**Tipo_NomeDoProjeto_Tecnologia**
+**Tipo_Nome-Do-Projeto_Tecnologia**
 
 - **Tipo**: ver legenda abaixo
-- **NomeDoProjeto**: nome do projeto
+- **Nome-Do-Projeto**: nome do projeto
 - **Tecnologia**: linguagem ou framework usado no projeto
 
 
