@@ -6,7 +6,7 @@
 ## 👋 Fala pessoal!
 
 Me chamo Matheus Rodrigues, tenho 23 anos.  
-Desde 2018 mergulhei no mundo da programação.
+Desde 2018 mergulhei no mundo da programação e de lá para cada venho focando mais na área de dados por completo.
 
 [![wakatime](https://wakatime.com/badge/user/13aa3a18-4e3a-4824-a7b7-3c8db8d38a14.svg)](https://wakatime.com/@13aa3a18-4e3a-4824-a7b7-3c8db8d38a14)
 
