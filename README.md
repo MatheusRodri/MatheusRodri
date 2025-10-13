@@ -39,7 +39,13 @@ Desde 2018 mergulhei no mundo da programação e de lá para cada venho focando 
 
 ## 📁 Organização dos Repositórios
 
-Gosto de deixar as coisas bem organizadas, para que eu e você possamos encontrar o repositório desejado. Por isso, criei uma forma de organizar meus projetos aqui no GitHub:  
+Gosto de deixar as coisas bem organizadas, para isso tenho duas organizações para meus repositórios, uma para projetos com a ideia de ser colocados em produção e outra para projetos de estudos e o meu repositorio principal (este aqui).
+
+[Projetos de estudos](https://github.com/RepoLearn): Aprendizados de novas linguagens, frameworks, projetos da faculdade, bootcamps, cursos, etc. 
+[Tech Matheus](https://github.com/TechMatheus): Projetos pessoais com foco de ser colocados em produção, free lancers, etc. ( Esse repositório poderá ter nenhum reposutório publico, somente privados)
+
+Todos os meus projetos segue o seguinte padrão de nomenclatura:
+
 **Tipo_Nome-Do-Projeto_Tecnologia**
 
 - **Tipo**: ver legenda abaixo
@@ -56,7 +62,6 @@ Gosto de deixar as coisas bem organizadas, para que eu e você possamos encontra
 | Bot   | Bot                                   | Robô para Discord, Telegram, etc.                     |
 | Cmd   | Prompt de comando                     | Projeto para terminal: automações, calculadora etc.   |
 | Data  | Dados                                 | Projeto envolvendo tratamento de dados, dashboards... |
-| Learn | Aprendizado                           | Projetos para documentar estudo de linguagens         |
 | Web   | Website                               | Projeto front-end (conectando a API ou não)           |
 
 --- 
@@ -92,8 +97,6 @@ Gosto de deixar as coisas bem organizadas, para que eu e você possamos encontra
 [Github](https://github.com/MatheusRodri)
 
 [Medium](https://medium.com/@techmatheus)
-
-[Reddit](https://www.reddit.com/user/techmatheus/)
 
 [Instagram](https://www.instagram.com/otechmatheus/)
 

@@ -50,7 +50,6 @@ I like to keep things well organized so that both you and I can easily find the 
 | Bot          | Bot                               | Bot for Discord, Telegram, etc.                       |
 | Cmd          | Command Prompt                    | Terminal project: automation, calculator, etc.        |
 | Data         | Data                              | Project involving data processing, dashboards...      |
-| Learn        | Learning                          | Projects to document language study                   |
 | Web          | Website                           | Front-end project (connecting to API or not)          |
 
 
@@ -85,8 +84,6 @@ I like to keep things well organized so that both you and I can easily find the 
 [Github](https://github.com/MatheusRodri)
 
 [Medium](https://medium.com/@techmatheus)
-
-[Reddit](https://www.reddit.com/user/techmatheus/)
 
 [Instagram](https://www.instagram.com/otechmatheus/)
 
