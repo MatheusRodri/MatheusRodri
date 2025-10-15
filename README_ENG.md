@@ -22,10 +22,8 @@ Since 2018, I have been immersed in technology through courses focused on algori
 ![ReactJS](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 
 ## 📫 Contact Me
 
@@ -34,7 +32,14 @@ Since 2018, I have been immersed in technology through courses focused on algori
 
 ## 📁 Repository Organization
 
-I like to keep things well organized so that both you and I can easily find the desired repository. Therefore, I created a way to organize my projects here on GitHub:  
+I like to keep things well organized so that both you and I can easily find the desired repository. Therefore, I created a way to organize my projects here on GitHub:
+Gosto de deixar as coisas bem organizadas, para isso tenho duas organizações para meus repositórios, uma para projetos com a ideia de ser colocados em produção e outra para projetos de estudos e o meu repositorio principal (este aqui).
+
+[Study Projects](https://github.com/RepoLearn): Learning new languages, frameworks, college projects, bootcamps, courses, etc.
+[Tech Matheus](https://github.com/TechMatheus): Personal projects aimed at being put into production, freelancing, etc. (This repository may have no public repositories, only private ones)
+
+All of my projects follow the naming pattern:
+
 **Type_ProjectName_Technology**
 
 - **Type**: see legend below  

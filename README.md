@@ -26,11 +26,8 @@ Desde 2018 mergulhei no mundo da programação e de lá para cada venho focando 
 ![ReactJS](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-rodrigues-mrj)
