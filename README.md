@@ -38,7 +38,7 @@ Desde 2018 mergulhei no mundo da programação e de lá para cada venho focando 
 
 Gosto de deixar as coisas bem organizadas, para isso tenho duas organizações para meus repositórios, uma para projetos com a ideia de ser colocados em produção e outra para projetos de estudos e o meu repositorio principal (este aqui).
 
-[Projetos de estudos](https://github.com/RepoLearn): Aprendizados de novas linguagens, frameworks, projetos da faculdade, bootcamps, cursos, etc. 
+[Projetos de estudos](https://github.com/RepoLearn): Aprendizados de novas linguagens, frameworks, projetos da faculdade, bootcamps, cursos, etc. </br>
 [Tech Matheus](https://github.com/TechMatheus): Projetos pessoais com foco de ser colocados em produção, free lancers, etc. ( Esse repositório poderá ter nenhum reposutório publico, somente privados)
 
 Todos os meus projetos segue o seguinte padrão de nomenclatura:
