@@ -8,9 +8,6 @@
 Me chamo Matheus Rodrigues, tenho 23 anos.  
 Desde 2018 mergulhei no mundo da programação e de lá para cada venho focando mais na área de dados por completo.
 
-[![wakatime](https://wakatime.com/badge/user/13aa3a18-4e3a-4824-a7b7-3c8db8d38a14.svg)](https://wakatime.com/@13aa3a18-4e3a-4824-a7b7-3c8db8d38a14)
-
-
 🎮 Nos momentos livres, gosto de ler livros, jogar jogos de gerenciamento de cidades, simuladores de caminhões e corridas, também costumo assistir corridas de automobilismo real e virtual, séries e filmes, mas sempre mantenho um tempinho para aprender algo novo.
 
 ## 💻 Minha Stack
@@ -28,6 +25,8 @@ Desde 2018 mergulhei no mundo da programação e de lá para cada venho focando 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+
+
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-rodrigues-mrj)
@@ -36,55 +35,36 @@ Desde 2018 mergulhei no mundo da programação e de lá para cada venho focando 
 
 ## 📁 Organização dos Repositórios
 
-Gosto de deixar as coisas bem organizadas, para isso tenho duas organizações para meus repositórios, uma para projetos com a ideia de ser colocados em produção e outra para projetos de estudos e o meu repositorio principal (este aqui).
+Gosto de deixar as coisas bem organizadas 😅. <br/> 
+Então os meus projetos segue o seguinte padrão de nomenclatura:
 
-[Projetos de estudos](https://github.com/RepoLearn): Aprendizados de novas linguagens, frameworks, projetos da faculdade, bootcamps, cursos, etc. </br>
-[Tech Matheus](https://github.com/TechMatheus): Projetos pessoais com foco de ser colocados em produção, free lancers, etc. ( Esse repositório poderá ter nenhum reposutório publico, somente privados)
+**prefixo-nome-do-projeto**
 
-Todos os meus projetos segue o seguinte padrão de nomenclatura:
-
-**Tipo_Nome-Do-Projeto_Tecnologia**
-
-- **Tipo**: ver legenda abaixo
-- **Nome-Do-Projeto**: nome do projeto
-- **Tecnologia**: linguagem ou framework usado no projeto
+- **prefixo**: ver legenda abaixo
+- **nome-do-projeto**: nome do projeto
 
 
 ## 🗂️ Legenda de Tipos
 
-| Sigla | Significado                           | Explicação                                            |
-|-------|---------------------------------------|-------------------------------------------------------|
-| Api   | Interface de programação de aplicação | Projeto com foco em backend                           |
-| App   | Aplicativo mobile                     | Projeto front-end mobile (conectando a API ou não)    |
-| Bot   | Bot                                   | Robô para Discord, Telegram, etc.                     |
-| Cmd   | Prompt de comando                     | Projeto para terminal: automações, calculadora etc.   |
-| Data  | Dados                                 | Projeto envolvendo tratamento de dados, dashboards... |
-| Web   | Website                               | Projeto front-end (conectando a API ou não)           |
+### 🏷️ Guia de prefixo
 
+| Prefixo           | Categoria             | Descrição                                                             |
+| :---              | :---                  | :---                                                                  |
+| **`analytics-`**  | Analytics             | Projetos de dados completos (ETL + Dashboard + App/Monitoramento).    |
+| **`api-`**        | Backend               | APIs REST, Microserviços e Servidores.                                |
+| **`auto-`**       | Automação             | Scripts de automação, RPA, Power Automate e Robôs.                    |
+| **`bi-`**         | Business Intelligence | Foco exclusivo em Visualização de Dados e Dashboards.                 |
+| **`ds-`**         | Data Science          | Estudos estatísticos, Análises Exploratórias (EDA) e Notebooks.       |
+| **`etl-`**        | Eng. de Dados         | Pipelines de ingestão, Tratamento de dados e Jobs (Spark/SQL).        |
+| **`infra-`**      | DevOps                | Configurações de Infraestrutura, Docker, Terraform e CI/CD.           |
+| **`lab-`**        | Estudos               | Laboratório de testes, "Hello Worlds" e aprendizados rápidos.         |
+| **`lib-`**        | Bibliotecas           | Ferramentas e Utilitários reutilizáveis criados por você.             |
+| **`ml-`**         | Machine Learning      | Modelos de Inteligência Artificial, Predição e Redes Neurais.         |
+| **`mobile-`**     | Mobile                | Aplicativos para dispositivos móveis (Nativos ou Híbridos).           |
+| **`monorepo-`**   | Fullstack             | Projetos que contêm Backend e Frontend no mesmo repositório.          |
+| **`power-`**      | Low-Code              | Aplicativos desenvolvidos em Power Platform (Power Apps).             |
+| **`web-`**        | Frontend              | Sites, Landing Pages e Interfaces Web.                                |
 --- 
-## 🖥️ Legenda de Tecnologias
-
-| Sigla     | Tecnologia         |
-|-----------|--------------------|
-| CS        | CSharp             |
-| EX        | Excel              |
-| JV        | Java               |
-| NJ        | NodeJs             |
-| KT        | Kotlin             |
-| NG        | AngularJs          |
-| NT        | NestJs             |
-| NXT       | NextJs             |
-| RJ        | ReactJs            |
-| RN        | React Native       |
-| PY        | Python             |
-| vanilla   | HTML, CSS e JS     |
-
-
-## 📊 Estatísticas do GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrodri&layout=compact&langs_count=7&theme=dark)
-![Matheus Github Stats](https://github-readme-stats.vercel.app/api?username=matheusrodri&show_icons=true&theme=dark)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matheusrodri&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Minhas redes
@@ -98,7 +78,6 @@ Todos os meus projetos segue o seguinte padrão de nomenclatura:
 [Instagram](https://www.instagram.com/otechmatheus/)
 
 [X](https://x.com/OTechMatheus)
-
 
 ---
 
