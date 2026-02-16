@@ -43,27 +43,26 @@ Então os meus projetos segue o seguinte padrão de nomenclatura:
 - **prefixo**: ver legenda abaixo
 - **nome-do-projeto**: nome do projeto
 
+## 🏷️ Guia de prefixo
 
-## 🗂️ Legenda de Tipos
-
-### 🏷️ Guia de prefixo
-
-| Prefixo           | Categoria             | Descrição                                                             |
-| :---              | :---                  | :---                                                                  |
-| **`analytics-`**  | Analytics             | Projetos de dados completos (ETL + Dashboard + App/Monitoramento).    |
-| **`api-`**        | Backend               | APIs REST, Microserviços e Servidores.                                |
-| **`auto-`**       | Automação             | Scripts de automação, RPA, Power Automate e Robôs.                    |
-| **`bi-`**         | Business Intelligence | Foco exclusivo em Visualização de Dados e Dashboards.                 |
-| **`ds-`**         | Data Science          | Estudos estatísticos, Análises Exploratórias (EDA) e Notebooks.       |
-| **`etl-`**        | Eng. de Dados         | Pipelines de ingestão, Tratamento de dados e Jobs (Spark/SQL).        |
-| **`infra-`**      | DevOps                | Configurações de Infraestrutura, Docker, Terraform e CI/CD.           |
-| **`lab-`**        | Estudos               | Laboratório de testes, "Hello Worlds" e aprendizados rápidos.         |
-| **`lib-`**        | Bibliotecas           | Ferramentas e Utilitários reutilizáveis criados por você.             |
-| **`ml-`**         | Machine Learning      | Modelos de Inteligência Artificial, Predição e Redes Neurais.         |
-| **`mobile-`**     | Mobile                | Aplicativos para dispositivos móveis (Nativos ou Híbridos).           |
-| **`monorepo-`**   | Fullstack             | Projetos que contêm Backend e Frontend no mesmo repositório.          |
-| **`power-`**      | Low-Code              | Aplicativos desenvolvidos em Power Platform (Power Apps).             |
-| **`web-`**        | Frontend              | Sites, Landing Pages e Interfaces Web.                                |
+| Prefixo           | Categoria             | Descrição                                                                 |
+| :---              | :---                  | :---                                                                      |
+| **`analytics-`**  | Analytics             | Projetos de dados completos (ETL + Dashboard + App/Monitoramento).        |
+| **`api-`**        | Backend               | APIs REST, Microserviços e Servidores.                                    |
+| **`auto-`**       | Automação             | Scripts de automação, RPA, Power Automate e Robôs.                        |
+| **`bi-`**         | Business Intelligence | Foco exclusivo em Visualização de Dados e Dashboards.                     |
+| **`bot-`**        | Chatbots              | Assistentes virtuais, Chatbots de atendimento e Bots para redes sociais.  |
+| **`desktop-`**    | Desktop               | Aplicativos para computadores (Windows, MacOS ou Linux).                  |
+| **`ds-`**         | Data Science          | Estudos estatísticos, Análises Exploratórias (EDA) e Notebooks.           |
+| **`etl-`**        | Eng. de Dados         | Pipelines de ingestão, Tratamento de dados e Jobs (Spark/SQL).            |
+| **`infra-`**      | DevOps                | Configurações de Infraestrutura, Docker, Terraform e CI/CD.               |
+| **`lab-`**        | Estudos               | Laboratório de testes, "Hello Worlds" e aprendizados rápidos.             |
+| **`lib-`**        | Bibliotecas           | Ferramentas e Utilitários reutilizáveis criados por você.                 |
+| **`ml-`**         | Machine Learning      | Modelos de Inteligência Artificial, Predição e Redes Neurais.             |
+| **`mobile-`**     | Mobile                | Aplicativos para dispositivos móveis (Nativos ou Híbridos).               |
+| **`monorepo-`**   | Fullstack             | Projetos que contêm Backend e Frontend no mesmo repositório.              |
+| **`power-`**      | Low-Code              | Aplicativos desenvolvidos em Power Platform (Power Apps).                 |
+| **`web-`**        | Frontend              | Sites, Landing Pages e Interfaces Web.                                    |
 --- 
 
 
