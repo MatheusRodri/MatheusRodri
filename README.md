@@ -5,7 +5,7 @@
 
 ## 👋 Fala pessoal!
 
-Me chamo Matheus Rodrigues, tenho 23 anos.  
+Me chamo Matheus Rodrigues, tenho 24 anos.  
 Desde 2018 mergulhei no mundo da programação e de lá para cada venho focando mais na área de dados por completo.
 
 🎮 Nos momentos livres, gosto de ler livros, jogar jogos de gerenciamento de cidades, simuladores de caminhões e corridas, também costumo assistir corridas de automobilismo real e virtual, séries e filmes, mas sempre mantenho um tempinho para aprender algo novo.
