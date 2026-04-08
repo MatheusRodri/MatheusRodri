@@ -4,7 +4,7 @@
 
 ## 👋 Hello everyone!
 
-My name is Matheus Rodrigues, I am 23 years old.  
+My name is Matheus Rodrigues, I am 24 years old.  
 Since 2018, I have been immersed in technology through courses focused on algorithms, C#, and MySQL.
 
 🎮 In my free time, I enjoy playing games and learning about various topics.
